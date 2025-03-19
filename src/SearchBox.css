@@ -1,0 +1,14 @@
+.SearchBox {
+    margin-top: 150px;
+    text-align: center;
+    color: aliceblue;
+}
+
+#City {
+    background-color: aliceblue;
+    color: black;
+}
+
+Button {
+    background-color: rgb(102, 22, 22);
+}
