@@ -11,7 +11,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "serve": "serve -s build"
+     "serve": "serve -s dist"
   },
   "homepage": ".",
   "dependencies": {
