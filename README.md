@@ -55,3 +55,8 @@ Feel free to fork this repository and submit issues or pull requests. If you fin
 
 # Note 
 Replace the API URL and API key with the actual values for the weather API you're using in your .env file.
+
+
+# deployment
+The Project is deployed on Render.
+Deployed Link: **https://www.resumemate.io/resume-builder**
