@@ -59,4 +59,4 @@ Replace the API URL and API key with the actual values for the weather API you'r
 
 # deployment
 The Project is deployed on Render.
-Deployed Link: **https://www.resumemate.io/resume-builder**
+Deployed Link: **https://weather-app-xawo.onrender.com/**
